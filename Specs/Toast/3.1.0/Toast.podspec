@@ -6,7 +6,6 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author       = { "Charles Scalesse" => "scalessec@gmail.com" }
   s.source       = { :git => "https://github.com/naiyi/Toast.git"}
-  #, :tag => "3.1.0" 
   s.platform     = :ios
   s.source_files = 'Toast/Toast'   
   s.framework    = 'QuartzCore'

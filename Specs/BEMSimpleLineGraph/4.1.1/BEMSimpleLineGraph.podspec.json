@@ -20,8 +20,7 @@
   },
   "requires_arc": true,
   "source": {
-    "git": "https://github.com/naiyi/BEMSimpleLineGraph.git",
-    "tag": "v4.1.1"
+    "git": "https://github.com/naiyi/BEMSimpleLineGraph.git"
   },
   "source_files": [
     "Classes",
